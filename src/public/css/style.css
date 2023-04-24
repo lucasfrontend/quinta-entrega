@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .product-form {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    background: #dcdcdc;
+    padding: 20px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 4px;
+    color: white;
+  }
+  
+  input {
+    display: block;
+    margin-bottom: 10px;
+}

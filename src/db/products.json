@@ -1,0 +1,80 @@
+[
+    {
+      "title": "counter strike",
+      "price": "1500",
+      "code": "0001",
+      "stock": "10",
+      "category": "cs",
+      "description": "cs",
+      "status": true,
+      "thumbnail": [
+        "C:\\Users\\andre\\OneDrive\\Escritorio\\backend_39750\\desafio-5\\src\\public\\uploads\\1681379219885-csgo.jpg"
+      ],
+      "id": 1
+    },
+    {
+      "title": "counter strike ",
+      "price": "1200",
+      "code": "1",
+      "stock": "12",
+      "category": "cs",
+      "description": "cs",
+      "status": true,
+      "thumbnail": [
+        "C:\\Users\\andre\\OneDrive\\Escritorio\\backend_39750\\desafio-5\\src\\public\\uploads\\1681435919191-csgo.jpg"
+      ],
+      "id": 2
+    },
+    {
+      "title": "counter strike ",
+      "price": "1200",
+      "code": "11",
+      "stock": "12",
+      "category": "cs",
+      "description": "cs",
+      "status": true,
+      "thumbnail": [
+        "C:\\Users\\andre\\OneDrive\\Escritorio\\backend_39750\\desafio-5\\src\\public\\uploads\\1681435924339-csgo.jpg"
+      ],
+      "id": 3
+    },
+    {
+      "title": "asdasd",
+      "price": "12321",
+      "code": "123",
+      "stock": "123",
+      "category": "awdasd",
+      "description": "asdasdas",
+      "status": true,
+      "thumbnail": [
+        null
+      ],
+      "id": 4
+    },
+    {
+      "title": "asdasd",
+      "price": "213412",
+      "code": "523423",
+      "stock": "3423",
+      "category": "adas",
+      "description": "asd",
+      "status": true,
+      "thumbnail": [
+        null
+      ],
+      "id": 5
+    },
+    {
+      "title": "asdas",
+      "price": "123",
+      "code": "4ed",
+      "stock": "23",
+      "category": "asd",
+      "description": "asd",
+      "status": true,
+      "thumbnail": [
+        "C:\\Users\\andre\\OneDrive\\Escritorio\\backend_39750\\desafio-5\\src\\public\\uploads\\1681448942229-ruso.jpg"
+      ],
+      "id": 6
+    }
+]

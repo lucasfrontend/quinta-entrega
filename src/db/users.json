@@ -1,0 +1,36 @@
+[
+    {
+      "name": "andres",
+      "lastName": "coria",
+      "age": 38,
+      "address": "loria 477, lomas de zamora, buenos aires.",
+      "e-mail": "andrescoria1984@gmail.com",
+      "genero": "masculino",
+      "password": "martin17b",
+      "id": 1
+    },
+    {
+      "name": "belen",
+      "lastName": "dajos",
+      "age": 32,
+      "address": "loria 477, lomas de zamora, buenos aires.",
+      "e-mail": "belendajos@hotmail.com",
+      "genero": "femenino",
+      "pass": "martinboedo1103",
+      "id": 2,
+      "salt": "Pk36rK2g01GIlPIHCSxPbovakA6Jt06hgNaq9uuxG7UVxv5Tmkoekrv6ylsGqKwMyAZpWVQ2biCfqFGvqxgnRDNwDvB37D06Ti+Z54ucc36jwkq1DqyOmGdM9QY+1+m3jC70NDirkDD3u7VCzpg5TDNbTn+fcKrMr8/c3bFMp0U=",
+      "password": "4f0b4053421f090bf7aaa71c76311a88995d4bb45be3546170ad0cf99cac5001"
+    },
+    {
+      "name": "aylen",
+      "lastName": "coria",
+      "age": 21,
+      "address": "sarasa",
+      "e-mail": "aylen@hotmail.com",
+      "genero": "femenino",
+      "pass": "martin2356",
+      "id": 3,
+      "salt": "8kZ83sx90p/MRvdM8W0J2T2poZAOKx8dWvvMAEhHkvRbo+KQ/JkOOEdTgsRqPe7H19GouSVv0BQTPsKMAs/fphQ7shQ3YRpZqbYwGum/9RNM8SODqDooIiCULkubccVhIoeW4AvPrZuzqlDr/oDLmbF63EV9e6pBKYlHmIDfcP8=",
+      "password": "2514bf9698c3ce60dcf7810eea2f5f508878eddef3cc7f34d260cdaf0b3fbde1"
+    }
+]
